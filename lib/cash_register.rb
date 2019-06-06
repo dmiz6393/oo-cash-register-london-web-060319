@@ -4,11 +4,12 @@ class CashRegister
   def initialize(discount=0)
     @total=0
     @discount=0
+
   end 
   
-  def total
-  
-end 
+  def self.total
+  @total
+  end 
 
 
 #CashRegister.new 
