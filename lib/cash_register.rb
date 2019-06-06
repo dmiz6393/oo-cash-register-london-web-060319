@@ -6,6 +6,6 @@ attr_reader(:total)
     @total=total 
   end 
   
-  def total
+  #def total
   
 end 
