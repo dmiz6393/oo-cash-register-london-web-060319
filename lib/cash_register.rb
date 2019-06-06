@@ -12,8 +12,8 @@ class CashRegister
   @total
   end 
 
+def apply_discount 
+  
 end 
 
 #CashRegister.new 
-
-#we want this to set total=0 
