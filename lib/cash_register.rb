@@ -11,6 +11,7 @@ class CashRegister
   @total
   end 
 
+end 
 
 #CashRegister.new 
 
