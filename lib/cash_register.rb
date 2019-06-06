@@ -1,9 +1,8 @@
 class CashRegister
-attr_reader(:total)
-@total=0 
+#attr_reader(:total)
 
   def initialize(total)
-    @total=total 
+    @total=0
   end 
   
   #def total
