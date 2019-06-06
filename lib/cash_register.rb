@@ -8,3 +8,8 @@ class CashRegister
   #def total
   
 end 
+
+
+CashRegister.new 
+
+we want this to set total=0 
