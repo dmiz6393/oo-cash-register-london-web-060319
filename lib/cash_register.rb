@@ -1,5 +1,5 @@
 class CashRegister
-#attr_reader(:total)
+#attr_reader(:title, :price, :item, :total)
 
   def initialize(total)
     total=0
