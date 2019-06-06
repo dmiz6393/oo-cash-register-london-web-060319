@@ -10,6 +10,6 @@ class CashRegister
 end 
 
 
-CashRegister.new 
+#CashRegister.new 
 
-we want this to set total=0 
+#we want this to set total=0 
